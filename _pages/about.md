@@ -1,29 +1,42 @@
+```markdown
 ---
 permalink: /
 title: "Mei Lab"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
-Welcome to Mei Lab
+<!-- HERO IMAGE -->
+<div style="position: relative; text-align: center;">
+  <img src="/images/cover.png" style="width: 100%; height: 400px; object-fit: cover;">
 
-Brief intro.
+  <div style="position: absolute; top: 40%; left: 50%; transform: translate(-50%, -50%); color: white;">
+    <h1 style="font-size: 48px; margin: 0;">Mei Lab</h1>
+    <p style="font-size: 20px;">Neural Circuits of Parental Behavior</p>
+  </div>
+</div>
 
-Research
+---
 
-Coming soon
+## Welcome
 
-Our current research focuses on:
+Intro coming soon
 
-Paternal Behaviors
-Prosocial Behaviors
+---
 
-Join Us
+## Research Themes
 
-We welcome motivated undergraduate students, graduate students, and postdoctoral researchers interested in neuroscience and related disciplines.
+### 🧠 Parental Behavior Circuits
+Understanding neural basis of caregiving behavior.
 
-Contact
+### ⚠️ Morbid Agression Modulation
+Studying pathological aggression that disrupts parenting.
 
-For collaboration opportunities or inquiries, please contact us through the information provided on the Contact page.
+### 🤝 Social & Prosocial Behavior
+Comparing social behaviors to isolate shared neural circuits.
+
+---
+
+## Join Us
+
+See the Join Us page for opportunities.
+```
