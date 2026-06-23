@@ -1,4 +1,3 @@
-```markdown
 ---
 permalink: /
 title: "Mei Lab"
