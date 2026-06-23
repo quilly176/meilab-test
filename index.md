@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Mei Lab"
-author_profile: true
+author_profile: false
 ---
 
 <!-- HERO IMAGE -->
