@@ -1,41 +1,43 @@
 ---
-permalink: /
-title: "Mei Lab"
-author_profile: false
+layout: home
+title: Mei Lab
+subtitle:  Systems Neuroscience · Parental Behavior · Prosocial Behavior 
 ---
 
-<!-- HERO IMAGE -->
-<div style="position: relative; text-align: center;">
-  <img src="/images/cover.png" style="width: 100%; height: 400px; object-fit: cover;">
-
-  <div style="position: absolute; top: 40%; left: 50%; transform: translate(-50%, -50%); color: white;">
-    <h1 style="font-size: 48px; margin: 0;">Mei Lab</h1>
-    <p style="font-size: 20px;">Neural Circuits of Parental Behavior</p>
-  </div>
+<div style="width:100%; margin-bottom: 2.5rem;">
+  <img src="/images/cover.png" style="width:100%; height:auto;">
 </div>
-
----
 
 ## Welcome
 
-Intro coming soon
+Currently under construction...
+---
+
+## Research
+
+Currently under construction...
+---
+
+## News
+
+{% include news.html %}
 
 ---
 
-## Research Themes
+## Selected Publications
 
-### 🧠 Parental Behavior Circuits
-Understanding neural basis of caregiving behavior.
-
-### ⚠️ Morbid Agression Modulation
-Studying pathological aggression that disrupts parenting.
-
-### 🤝 Social & Prosocial Behavior
-Comparing social behaviors to isolate shared neural circuits.
+{% include publications_selected.html %}
 
 ---
 
-## Join Us
+## Team
 
-See the Join Us page for opportunities.
-```
+Currently under construction...
+
+{% include team.html %}
+
+---
+
+## Contact
+
+Currently under construction...
